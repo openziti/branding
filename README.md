@@ -4,4 +4,4 @@ This is the landing page for OpenZiti related branding material. Here you will f
 # Ziggy
 You'll also find OpenZiti's mascot, Ziggy here. Here's a mapping of the latest images available:
 
-![Ziggy Overview](images/ziggy/ai/Ziggy-Pack.jpg)
+![Ziggy Overview](images/ziggy/ai/Ziggy-Pack.png)
